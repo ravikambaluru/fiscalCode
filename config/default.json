@@ -1,0 +1,7 @@
+{
+    
+    "serverDetails":{
+        "port":3000,
+        "host":"localhost"
+    }
+}

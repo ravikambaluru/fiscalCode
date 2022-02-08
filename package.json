@@ -1,0 +1,22 @@
+{
+  "name": "task-fiscal-code",
+  "version": "1.0.0",
+  "description": "The project is task for creating fiscal code as part of machine task round alloted by Convey solutions ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "RAVITEJA.K",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "helmet": "^5.0.2",
+    "joi": "^17.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
